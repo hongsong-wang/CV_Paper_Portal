@@ -23,8 +23,7 @@ Please star this repository if it helps you!
 [2024](https://hongsong-wang.github.io/ACMMM_2024_ABSTRACT/)
 
 # Conference on Neural Information Processing Systems (NeurIPS)
-[2024](https://github.com/hongsong-wang/NIPS2024_ABSTRACT/)
-
+[2024](https://github.com/hongsong-wang/NIPS2024_ABSTRACT/), &nbsp; [2023](https://github.com/hongsong-wang/NIPS2023_ABSTRACT/), &nbsp; [2022](https://github.com/hongsong-wang/NIPS2022_ABSTRACT/), &nbsp; [2021](https://github.com/hongsong-wang/NIPS2021_ABSTRACT/), &nbsp; [2020](https://github.com/hongsong-wang/NIPS2020_ABSTRACT/), &nbsp; [2019](https://github.com/hongsong-wang/NIPS2019_ABSTRACT/)
 # International Conference on Machine Learning (ICML)
 [2025](https://hongsong-wang.github.io/ICML2025_ABSTRACT/)
 

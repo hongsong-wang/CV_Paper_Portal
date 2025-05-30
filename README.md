@@ -11,11 +11,17 @@ To facilitate students and researchers in quickly locating papers based on keywo
 #  European Conference on Computer Vision (ECCV)
 [2024](https://hongsong-wang.github.io/ECCV2024_ABSTRACT/), &nbsp; [2022](https://hongsong-wang.github.io/ECCV2022_ABSTRACT/), &nbsp; [2020](https://hongsong-wang.github.io/ECCV2020_ABSTRACT/), &nbsp; [2018](https://hongsong-wang.github.io/ECCV2018_ABSTRACT/)
 
+# ACM Multimedia
+[2024])(https://hongsong-wang.github.io/ACMMM_2024_ABSTRACT/)
+
 # International Conference on Machine Learning (ICML)
 [2025](https://hongsong-wang.github.io/ICML2025_ABSTRACT/)
 
 # Conference on Neural Information Processing Systems (NeurIPS)
-[2025](https://github.com/hongsong-wang/NIPS2025_ABSTRACT), &nbsp; [2024](https://github.com/hongsong-wang/NIPS2024_ABSTRACT)
+[2024](https://github.com/hongsong-wang/NIPS2024_ABSTRACT/)
+
+# AAAI Conference on Artificial Intelligence
+[2025](https://hongsong-wang.github.io/AAAI2025_ABSTRACT-/)
 
 These webpages are protected by copyright laws. Without the written permission of the owner of these webpages, no individual or organization shall use the content of these webpages in any form.
 

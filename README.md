@@ -9,7 +9,7 @@ To facilitate students and researchers in quickly locating papers based on keywo
 [2023](https://hongsong-wang.github.io/ICCV2023_ABSTRACT), &nbsp; [2021](https://hongsong-wang.github.io/ICCV2021_ABSTRACT/), &nbsp; [2019](https://hongsong-wang.github.io/ICCV2019_ABSTRACT)
 
 #  European Conference on Computer Vision (ECCV)
-[2024](https://hongsong-wang.github.io/ECCV2024_ABSTRACT/), &nbsp; [2022](https://hongsong-wang.github.io/ECCV2022_ABSTRACT/), &nbsp; [2020](https://hongsong-wang.github.io/ECCV2020_ABSTRACT/), &nbsp; [2018](https://hongsong-wang.github.io/ECCV2018_ABSTRACT/), &nbsp; 
+[2024](https://hongsong-wang.github.io/ECCV2024_ABSTRACT/), &nbsp; [2022](https://hongsong-wang.github.io/ECCV2022_ABSTRACT/), &nbsp; [2020](https://hongsong-wang.github.io/ECCV2020_ABSTRACT/), &nbsp; [2018](https://hongsong-wang.github.io/ECCV2018_ABSTRACT/)
 
 These webpages are protected by copyright laws. Without the written permission of the owner of these webpages, no individual or organization shall use the content of these webpages in any form.
 

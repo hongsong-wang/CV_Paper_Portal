@@ -28,7 +28,7 @@ Please star this repository if it helps you!
 # International Conference on Machine Learning (ICML)
 [2025](https://hongsong-wang.github.io/ICML2025_ABSTRACT/)
 
-# AAAI Conference on Artificial Intelligence
+# AAAI Conference on Artificial Intelligence (AAAI)
 [2025](https://hongsong-wang.github.io/AAAI2025_ABSTRACT-/)
 
 # International Conference on Learning Representations (ICLR)

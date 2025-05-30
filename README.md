@@ -12,7 +12,7 @@ To facilitate students and researchers in quickly locating papers based on keywo
 [2024](https://hongsong-wang.github.io/ECCV2024_ABSTRACT/), &nbsp; [2022](https://hongsong-wang.github.io/ECCV2022_ABSTRACT/), &nbsp; [2020](https://hongsong-wang.github.io/ECCV2020_ABSTRACT/), &nbsp; [2018](https://hongsong-wang.github.io/ECCV2018_ABSTRACT/)
 
 # ACM Multimedia
-[2024])(https://hongsong-wang.github.io/ACMMM_2024_ABSTRACT/)
+[2024](https://hongsong-wang.github.io/ACMMM_2024_ABSTRACT/)
 
 # International Conference on Machine Learning (ICML)
 [2025](https://hongsong-wang.github.io/ICML2025_ABSTRACT/)

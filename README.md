@@ -35,3 +35,13 @@ Please star this repository if it helps you!
 [2025](https://hongsong-wang.github.io/AAAI2025_ABSTRACT-/)
 
 Please star this repository if it helps you!
+
+```
+@misc{Wang_CV_Paper_Portal,
+  author       = {Wang, Hongsong},
+  title        = {CV\_Paper\_Portal},
+  howpublished = {\url{https://github.com/hongsong-wang/CV_Paper_Portal/}},
+  year         = {2025}, 
+  note         = {Paper Portal for Top Conferences in the Field of Computer Vision and Machine Learning}
+}
+```

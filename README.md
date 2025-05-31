@@ -4,7 +4,7 @@ To facilitate students and researchers in quickly locating papers based on keywo
 
 These webpages are protected by copyright laws. Without the written permission of the owner of these webpages, no individual or organization shall use the content of these webpages in any form.
 
-If there is a need to reprint the content of these webpages for non-commercial purposes such as learning, research, or personal sharing, the source must be clearly indicated as "Content sourced from [https://github.com/hongsong-wang/CV_Paper_Portal/]". The content must be kept intact, and no alteration or distortion of the original text is allowed.
+If there is a need to reprint the content of these webpages for non-commercial purposes such as learning, research, or personal sharing, the source must be clearly indicated as "Content sourced from [https://hongsong-wang.github.io/CV_Paper_Portal/]". The content must be kept intact, and no alteration or distortion of the original text is allowed.
 
 The owner of these webpages reserves the right to pursue legal liability for any unauthorized use of the content of these webpages.
 

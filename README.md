@@ -22,7 +22,7 @@ Please star this repository [https://github.com/hongsong-wang/CV_Paper_Portal](h
 [2025](https://hongsong-wang.github.io/ICML2025_ABSTRACT/)
 
 # AAAI Conference on Artificial Intelligence (AAAI)
-[2025](https://hongsong-wang.github.io/AAAI2025_ABSTRACT-/)
+[2025](https://hongsong-wang.github.io/AAAI2025_ABSTRACT-/), &nbsp; [2024](https://hongsong-wang.github.io/AAAI2024_ABSTRACT/), &nbsp; [2023](https://hongsong-wang.github.io/AAAI2023_ABSTRACT/)
 
 # International Conference on Learning Representations (ICLR)
 [2025](https://hongsong-wang.github.io/ICLR_2025_ABSTRACT/), &nbsp; [2024](https://hongsong-wang.github.io/ICLR_2024_ABSTRACT/)

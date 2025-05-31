@@ -44,3 +44,9 @@ Please star this repository if it helps you!
   note         = {Paper Portal for Top Conferences in the Field of Computer Vision and Machine Learning}
 }
 ```
+
+<div style="background-color: #f6f8fa; padding: 1em; border-radius: 6px; font-family: monospace; white-space: pre-wrap;">
+<code>
+This webpage is protected by copyright laws. Without the written permission of the owner of this webpage, no individual or organization shall use the content of this webpage in any form. If there is a need to reprint the content of this webpage for non-commercial purposes such as learning, research, or personal sharing, the source must be clearly indicated as "Content sourced from [https://github.com/hongsong-wang/Perception-Lab/]". The content must be kept intact, and no alteration or distortion of the original text is allowed. The owner of this webpage reserves the right to pursue legal liability for any unauthorized use of the content of this webpage. If you find these works useful, please cite the above works.
+</code>
+</div>

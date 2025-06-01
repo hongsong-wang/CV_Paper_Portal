@@ -17,7 +17,7 @@ Please star this repository [https://github.com/hongsong-wang/CV_Paper_Portal](h
 [2024](https://hongsong-wang.github.io/ACMMM_2024_ABSTRACT/)
 
 # Conference on Neural Information Processing Systems (NeurIPS)
-[2024](https://hongsong-wang.github.io/NIPS2024_ABSTRACT/), &nbsp; [2023](https://hongsong-wang.github.io/NIPS2023_ABSTRACT/), &nbsp; [2022](https://hongsong-wang.github.io/NIPS2022_ABSTRACT/), &nbsp; [2021](https://hongsong-wang.github.io/NIPS2021_ABSTRACT/), &nbsp; [2020](https://hongsong-wang.github.io/NIPS2020_ABSTRACT/), &nbsp; [2019](https://hongsong-wang.github.io/NIPS2019_ABSTRACT/)
+[2024](https://hongsong-wang.github.io/NIPS2024_ABSTRACT/), &nbsp; [2023](https://hongsong-wang.github.io/NIPS2023_ABSTRACT/), &nbsp; [2022](https://hongsong-wang.github.io/NIPS2022_ABSTRACT/), &nbsp; [2021](https://hongsong-wang.github.io/NIPS2021_ABSTRACT/), &nbsp; [2020](https://hongsong-wang.github.io/NIPS2020_ABSTRACT/), &nbsp; [2019](https://hongsong-wang.github.io/NIPS2019_ABSTRACT/), &nbsp; [2018](https://hongsong-wang.github.io/NIPS2018_ABSTRACT/), &nbsp; [2017](https://hongsong-wang.github.io/NIPS2017_ABSTRACT/), &nbsp; [2016](https://hongsong-wang.github.io/NIPS2016_ABSTRACT/), &nbsp; [2015](https://hongsong-wang.github.io/NIPS2015_ABSTRACT/), &nbsp; [2014](https://hongsong-wang.github.io/NIPS2014_ABSTRACT/), &nbsp; [2013](https://hongsong-wang.github.io/NIPS2013_ABSTRACT/), &nbsp; [2012](https://hongsong-wang.github.io/NIPS2012_ABSTRACT/), &nbsp; [2011](https://hongsong-wang.github.io/NIPS2011_ABSTRACT/), &nbsp; [2010](https://hongsong-wang.github.io/NIPS2010_ABSTRACT/), &nbsp; [2009](https://hongsong-wang.github.io/NIPS2009_ABSTRACT/)
 # International Conference on Machine Learning (ICML)
 [2025](https://hongsong-wang.github.io/ICML2025_ABSTRACT/)
 
@@ -26,18 +26,6 @@ Please star this repository [https://github.com/hongsong-wang/CV_Paper_Portal](h
 
 # International Conference on Learning Representations (ICLR)
 [2025](https://hongsong-wang.github.io/ICLR_2025_ABSTRACT/), &nbsp; [2024](https://hongsong-wang.github.io/ICLR_2024_ABSTRACT/)
-
-Please star this repository if it helps you!
-
-```
-@misc{Wang_CV_Paper_Portal,
-  author       = {Wang, Hongsong},
-  title        = {CV\_Paper\_Portal},
-  howpublished = {\url{https://github.com/hongsong-wang/CV_Paper_Portal/}},
-  year         = {2025}, 
-  note         = {Paper Portal for Top Conferences in the Field of Computer Vision and Machine Learning}
-}
-```
 
 <div style="background-color: #f6f8fa; padding: 1em; border-radius: 6px; font-family: monospace; white-space: pre-wrap;">
 <code>

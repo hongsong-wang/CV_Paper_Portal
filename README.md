@@ -40,4 +40,4 @@ This webpage is protected by copyright laws. Without the written permission of t
 </code>
 </div>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4-n4OR-iN-KAKmjKrMefDzMTY36aqoKb2Vg3QPX3Y5A&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1c6fo"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=4-n4OR-iN-KAKmjKrMefDzMTY36aqoKb2Vg3QPX3Y5A&cl=ffffff" /></a>

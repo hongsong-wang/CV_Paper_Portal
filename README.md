@@ -40,5 +40,3 @@ This webpage is protected by copyright laws. Without the written permission of t
 </code>
 </div>
 
-[![ClustrMaps](https://www.clustrmaps.com/map_v2.png?d=4-n4OR-iN-KAKmjKrMefDzMTY36aqoKb2Vg3QPX3Y5A&cl=ffffff)](https://clustrmaps.com/site/1c6fo)
-

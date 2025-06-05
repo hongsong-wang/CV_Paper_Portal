@@ -1,4 +1,4 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=hongsong-wang&repo=CV_Paper_Portal&color=blue)
+% ![Visitor Count](https://komarev.com/ghpvc/?username=hongsong-wang&repo=CV_Paper_Portal&color=blue)
 
 # Paper Portal for Top Conferences in the Field of Computer Vision and Machine Learning
 

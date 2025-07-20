@@ -7,7 +7,7 @@
 
 To facilitate students and researchers in quickly locating papers based on keywords, I consolidated the abstracts from the top conferences in the field of computer vision and machine learning and created some webpages. Most of these data were collected from https://openaccess.thecvf.com/menu.
 
-Please star this repository [https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal) if it helps you! The website is [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/).
+The website is [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/). Please star this repository [https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal) if it helps you! 
 
 # [Conference on Computer Vision and Pattern Recognition (CVPR)](https://openaccess.thecvf.com/menu)
 [2025](https://hongsong-wang.github.io/CVPR2025_ABSTRACT/), &nbsp; [2024](https://hongsong-wang.github.io/CVPR2024_ABSTRACT/), &nbsp; [2023](https://hongsong-wang.github.io/CVPR2023_ABSTRACT/), &nbsp; [2022](https://hongsong-wang.github.io/CVPR2022_ABSTRACT/), &nbsp; [2021](https://hongsong-wang.github.io/CVPR2021_ABSTRACT-/), &nbsp; [2020](https://hongsong-wang.github.io/CVPR2020_ABSTRACT/), &nbsp; [2019](https://hongsong-wang.github.io/CVPR2019_ABSTRACT), &nbsp; [2018](https://hongsong-wang.github.io/CVPR2018_ABSTRACT), &nbsp;[2017](https://hongsong-wang.github.io/CVPR2017_ABSTRACT/), &nbsp; [2016](https://hongsong-wang.github.io/CVPR2016_ABSTRACT/), &nbsp; [2015](https://hongsong-wang.github.io/CVPR2015_ABSTRACT), &nbsp; [2014](https://hongsong-wang.github.io/CVPR2014_ABSTRACT), &nbsp; [2013](https://hongsong-wang.github.io/CVPR2013_ABSTRACT)

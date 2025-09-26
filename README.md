@@ -1,6 +1,7 @@
 # Paper Portal for Top Conferences in the Field of Computer Vision and Machine Learning
 
 ## 📰 News
+- 🚨 **[2025-09-26] The NeurIPS 2025 page is available [NIPS2025](https://hongsong-wang.github.io/NIPS2025/)**
 - 🚨 **[2025-07-19] The ICCV 2025 page is available [ICCV 2025](https://hongsong-wang.github.io/ICCV2025_ABSTRACT)**
 - 🚨 **[2025-07-19] The ICML 2025 page is updated with full paper link [ICML 2025](https://hongsong-wang.github.io/ICML2025_ABSTRACT)**  
 

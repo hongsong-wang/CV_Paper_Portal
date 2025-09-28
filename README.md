@@ -8,7 +8,7 @@
 
 To facilitate students and researchers in quickly locating papers based on keywords, I consolidated the abstracts from the top conferences in the field of computer vision and machine learning and created some webpages. Most of these data were collected from https://openaccess.thecvf.com/menu.
 
-The website is [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/). Please star this repository [https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal) if it helps you! 
+This website is [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/). Please star this repository [https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal) if it helps you! 
 
 We also maintain [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal/) and [BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI). Please also star these repositories [https://github.com/hongsong-wang/AI_arXiv_Portal](https://github.com/hongsong-wang/AI_arXiv_Portal) and [https://github.com/hongsong-wang/BestPaperAwards_AI](https://github.com/hongsong-wang/BestPaperAwards_AI) if they help you! 
 

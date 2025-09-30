@@ -47,7 +47,7 @@ We also maintain [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Port
 
 若该文档对您有所帮助，请在页面右上角点个Star⭐支持一下，谢谢！
 
-如果转载该文档的内容，请注明出处：https://github.com/hongsong-wang/CV_Paper_Portal。
+如果转载该文档的内容，请注明出处：https://github.com/hongsong-wang/CV_Paper_Portal
 
 <div style="background-color: #f6f8fa; padding: 1em; border-radius: 6px; font-family: monospace; white-space: pre-wrap;">
 <code>

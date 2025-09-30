@@ -42,6 +42,13 @@ We also maintain [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Port
 # [International Conference on Learning Representations (ICLR)](https://openreview.net/group?id=ICLR.cc)
 [2025](https://hongsong-wang.github.io/ICLR_2025_ABSTRACT/), &nbsp; [2024](https://hongsong-wang.github.io/ICLR_2024_ABSTRACT/)
 
+
+# Acknowledgements
+
+若该文档对您有所帮助，请在页面右上角点个Star⭐支持一下，谢谢！
+
+如果转载该文档的内容，请注明出处：https://github.com/hongsong-wang/CV_Paper_Portal。
+
 <div style="background-color: #f6f8fa; padding: 1em; border-radius: 6px; font-family: monospace; white-space: pre-wrap;">
 <code>
 This webpage is protected by copyright laws. Without the written permission of the owner of this webpage, no individual or organization shall use the content of this webpage in any form. If there is a need to reprint the content of this webpage for non-commercial purposes such as learning, research, or personal sharing, the source must be clearly indicated as "Content sourced from [https://github.com/hongsong-wang/CV_Paper_Portal/]". The content must be kept intact, and no alteration or distortion of the original text is allowed. The owner of this webpage reserves the right to pursue legal liability for any unauthorized use of the content of this webpage. If you find these works useful, please cite the above works.

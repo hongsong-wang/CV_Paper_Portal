@@ -1,4 +1,4 @@
-# Paper Portal for Top Conferences in the Field of Computer Vision and Machine Learning
+# Paper Portal for Top Conferences in the Field of Computer Vision, Machine Learning and Artificial intelligence
 
 ## 📰 News
 - 🚨 **[2025-09-26] The NeurIPS 2025 page is available [NIPS2025](https://hongsong-wang.github.io/NIPS2025/)**

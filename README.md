@@ -6,7 +6,7 @@
 - 🚨 **[2025-07-19] The ICML 2025 page is updated with full paper link [ICML 2025](https://hongsong-wang.github.io/ICML2025_ABSTRACT)**  
 
 
-To facilitate students and researchers in quickly locating papers based on keywords, I consolidated the abstracts from the top conferences in the field of computer vision and machine learning and created some webpages. Most of these data were collected from https://openaccess.thecvf.com/menu.
+To facilitate students and researchers in quickly locating papers based on keywords, I consolidated the abstracts from the top conferences in the field of computer vision and machine learning and created some webpages. Most of these data, including the abstracts, were collected from https://arxiv.org/.
 
 This website is [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/). Please star this repository [https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal) if it helps you! 
 

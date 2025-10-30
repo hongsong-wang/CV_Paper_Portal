@@ -14,7 +14,7 @@ This website is [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Porta
 [2024](https://hongsong-wang.github.io/ECCV2024_ABSTRACT/), &nbsp; [2022](https://hongsong-wang.github.io/ECCV2022_ABSTRACT/), &nbsp; [2020](https://hongsong-wang.github.io/ECCV2020_ABSTRACT/), &nbsp; [2018](https://hongsong-wang.github.io/ECCV2018_ABSTRACT/)
 
 # [ACM Multimedia](https://openreview.net/group?id=acmmm.org/)
-[2025_Partical](https://hongsong-wang.github.io/ACMMM25_arXiv/),&nbsp; [2024](https://hongsong-wang.github.io/ACMMM_2024_ABSTRACT/)
+[2025](https://dl.acm.org/doi/proceedings/10.1145/3746027?tocHeading=heading21#heading4),[2025_Partical](https://hongsong-wang.github.io/ACMMM25_arXiv/),&nbsp; [2024](https://hongsong-wang.github.io/ACMMM_2024_ABSTRACT/)
 
 # [SIGGRAPH](https://kesen.realtimerendering.com)
 [2025](https://kesen.realtimerendering.com/sig2025.html), &nbsp; [2025_Abstract](https://hongsong-wang.github.io/siggraph25_abstract/), &nbsp; [2024](https://kesen.realtimerendering.com/sig2024.html), &nbsp; [2023](https://kesen.realtimerendering.com/sig2023.html), &nbsp; [2022](https://www.realtimerendering.com/kesen/sig2022.html), &nbsp; [2021](https://www.realtimerendering.com/kesen/sig2021.html), &nbsp; [2020](https://www.realtimerendering.com/kesen/sig2020.html), &nbsp; [2019](https://www.realtimerendering.com/kesen/sig2019.html), &nbsp; [2018](https://www.realtimerendering.com/kesen/sig2018.html), &nbsp; [2017](https://www.realtimerendering.com/kesen/sig2017.html), &nbsp; [2016](https://www.realtimerendering.com/kesen/sig2016.html), &nbsp; [2015](https://www.realtimerendering.com/kesen/sig2015.html), &nbsp; [2014](https://www.realtimerendering.com/kesen/sig2014.html), &nbsp; [2013](https://www.realtimerendering.com/kesen/sig2013.html)

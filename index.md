@@ -29,7 +29,7 @@ This website is [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Porta
 [2025](https://hongsong-wang.github.io/ICML2025_ABSTRACT/), &nbsp; [2024](https://hongsong-wang.github.io/ICML2024_ABSTRACT/), &nbsp; [2023](https://hongsong-wang.github.io/ICML2023_ABSTRACT/), &nbsp; [2022](https://hongsong-wang.github.io/ICML2022_ABSTRACT/), &nbsp; [2021](https://hongsong-wang.github.io/ICML2021_ABSTRACT/), &nbsp; [2020](https://hongsong-wang.github.io/ICML2020_ABSTRACT/), &nbsp; [2019](https://hongsong-wang.github.io/ICML2019_ABSTRACT/), &nbsp; [2018](https://hongsong-wang.github.io/ICML2018_ABSTRACT/), &nbsp; [2017](https://hongsong-wang.github.io/ICML2017_ABSTRACT/), &nbsp; [2016](https://hongsong-wang.github.io/ICML2016_ABSTRACT/), &nbsp; [2015](https://hongsong-wang.github.io/ICML2015_ABSTRACT/)
 
 # [AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/aaai-publications/aaai-conference-proceedings/)
-[2025](https://hongsong-wang.github.io/AAAI2025_ABSTRACT-/), &nbsp; [2024](https://hongsong-wang.github.io/AAAI2024_ABSTRACT/), &nbsp; [2023](https://hongsong-wang.github.io/AAAI2023_ABSTRACT/)
+[2026](https://hongsong-wang.github.io/AAAI2026_Abstract/), &nbsp; [2025](https://hongsong-wang.github.io/AAAI2025_ABSTRACT-/), &nbsp; [2024](https://hongsong-wang.github.io/AAAI2024_ABSTRACT/), &nbsp; [2023](https://hongsong-wang.github.io/AAAI2023_ABSTRACT/)
 
 # [International Conference on Learning Representations (ICLR)](https://openreview.net/group?id=ICLR.cc)
 [2026](https://hongsong-wang.github.io/ICLR2026_Abstract/), &nbsp; [2025](https://hongsong-wang.github.io/ICLR_2025_ABSTRACT/), &nbsp; [2024](https://hongsong-wang.github.io/ICLR_2024_ABSTRACT/)

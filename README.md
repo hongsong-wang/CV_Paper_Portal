@@ -1,7 +1,7 @@
 # Paper Portal for Top Conferences in the Field of Computer Vision, Machine Learning and Artificial intelligence (历年顶会论文门户网址)
 
 ## 📰 News
-- 🚨 **[2026-02-07] The ICLR 2026 page is updated with full paper link [ICLR2026](https://hongsong-wang.github.io/ICLR2026_Abstract/)**
+- 🚨 **[2026-02-07] The ICLR 2026 page is created with full paper link [ICLR2026](https://hongsong-wang.github.io/ICLR2026_Abstract/)**
 - 🚨 **[2026-02-07] The AAAI 2026 page is roughly created by matching arXiv papers [AAAI2026](https://hongsong-wang.github.io/AAAI2026_Abstract/)**
 - 🚨 **[2025-11-04] The NeurIPS 2025 page is updated with full paper link [NIPS2025](https://hongsong-wang.github.io/NIPS2025/)**
 

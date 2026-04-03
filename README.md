@@ -3,7 +3,6 @@
 ## 📰 News
 - 🏅 **[2026-03-23] The AAAI 2026 page is updated with full paper link [AAAI2026](https://hongsong-wang.github.io/AAAI2026_Abstract/)**
 - ❤️ **[2026-02-13] 感谢中国图象图像学会CSIG微信公众号帮忙宣传[【科研播报】ICLR 2026 收录论文集汇总](https://mp.weixin.qq.com/s/TaV_7JzgM1eXYvrOtpzwmw)**
-- 🏅 **[2026-02-07] The ICLR 2026 page is created with full paper link [ICLR2026](https://hongsong-wang.github.io/ICLR2026_Abstract/)**.
 
 To facilitate students and researchers in quickly locating papers based on keywords, I consolidated the abstracts from the top conferences in the field of computer vision and machine learning and created some webpages. Most of these data, including the abstracts, were collected from https://arxiv.org/.
 

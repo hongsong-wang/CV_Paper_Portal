@@ -1,9 +1,9 @@
 # Paper Portal for Top Conferences in the Field of Computer Vision, Machine Learning and Artificial intelligence (历年顶会论文门户网址)
 
 ## 📰 News
+- 🏅 **[2026-06-06] The ICML 2026 page has been updated with the oral and spotlight. [ICML2026](https://hongsong-wang.github.io/ICML2026/)**
 - 🏅 **[2026-05-25] The CVPR 2026 page is updated with full paper link [CVPR2026](https://hongsong-wang.github.io/CVPR2026/)**
 - 📰 **[2026-05-21] The [ArXiv or Top Conference Paper Search Portal](http://47.102.131.153/) ([arXiv / 顶会论文关键词检索网站](https://zhuanlan.zhihu.com/p/2040787474667020344))**
-- 🏅 **[2026-05-08] The ICML 2026 page is available [ICML2026](https://hongsong-wang.github.io/ICML2026/)**
 - 🏅 **[2026-03-23] The AAAI 2026 page is updated with full paper link [AAAI2026](https://hongsong-wang.github.io/AAAI2026_Abstract/)**
 - ❤️ **[2026-02-13] 感谢中国图象图像学会CSIG微信公众号帮忙宣传[【科研播报】ICLR 2026 收录论文集汇总](https://mp.weixin.qq.com/s/TaV_7JzgM1eXYvrOtpzwmw)**
 

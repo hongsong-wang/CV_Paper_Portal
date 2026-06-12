@@ -44,6 +44,9 @@ This website is [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Porta
 # [Annual Meeting of the Association for Computational Linguistics (ACL)](https://aclanthology.org/venues/acl/)
 [2025](https://hongsong-wang.github.io/acl2025/), &nbsp; [2024](https://hongsong-wang.github.io/acl2024/), &nbsp; [2023](https://hongsong-wang.github.io/acl2023/), &nbsp;[2022](https://hongsong-wang.github.io/acl2022/), &nbsp;[2021](https://hongsong-wang.github.io/acl2021/), &nbsp;[2020](https://hongsong-wang.github.io/acl2020), &nbsp;[2019](https://hongsong-wang.github.io/acl2019/), &nbsp;[2018](https://hongsong-wang.github.io/acl2018/)
 
+# [North American Chapter of the Association for Computational Linguistics (NAACL)](https://aclanthology.org/venues/naacl/)
+[2025](https://hongsong-wang.github.io/naacl2025/), &nbsp; [2024](https://hongsong-wang.github.io/naacl2024/), &nbsp; [2022](https://hongsong-wang.github.io/naacl2022/), &nbsp;[2021](https://hongsong-wang.github.io/naacl2021/)
+
 # Acknowledgements
 
 若该文档对您有所帮助，请在页面右上角点个Star⭐支持一下，谢谢！

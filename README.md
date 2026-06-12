@@ -1,5 +1,5 @@
 # Paper Portal for Top Conferences of Computer Vision and Artificial intelligence (Paper Portal of Vision-Language-Learning-Robotics)
-# 历年顶会论文门户网址 (视觉-语言-学习-机器人论文门户网站)
+# 历年顶会论文门户网址 (视觉-语言-学习-机器人论文门户)
 
 ## 📰 News
 - 🏅 **[2026-06-06] The ICML 2026 page is updated with the oral and spotlight results [ICML2026](https://hongsong-wang.github.io/ICML2026/)**

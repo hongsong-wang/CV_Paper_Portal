@@ -41,7 +41,7 @@ This website is [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Porta
 # [International Conference on Learning Representations (ICLR)](https://openreview.net/group?id=ICLR.cc)
 [2026](https://hongsong-wang.github.io/ICLR2026_Abstract/), &nbsp; [2025](https://hongsong-wang.github.io/ICLR_2025_ABSTRACT/), &nbsp; [2024](https://hongsong-wang.github.io/ICLR_2024_ABSTRACT/), &nbsp; [2023](https://hongsong-wang.github.io/ICLR2023/), &nbsp;[2022](https://hongsong-wang.github.io/ICLR2022/), &nbsp;[2021](https://hongsong-wang.github.io/ICLR2021/), &nbsp;[2020](https://hongsong-wang.github.io/ICLR2020), &nbsp;[2019](https://hongsong-wang.github.io/ICLR2019/), &nbsp;[2018](https://hongsong-wang.github.io/ICLR2018/), &nbsp;[2017](https://hongsong-wang.github.io/ICLR2017)
 
-# [ Annual Meeting of the Association for Computational Linguistics (ACL)](https://aclanthology.org/venues/acl/)
+# [Meeting of the Association for Computational Linguistics (ACL)](https://aclanthology.org/venues/acl/)
 [2025](https://hongsong-wang.github.io/acl2025/), &nbsp; [2024](https://hongsong-wang.github.io/acl2024/), &nbsp; [2023](https://hongsong-wang.github.io/acl2023/), &nbsp;[2022](https://hongsong-wang.github.io/acl2022/), &nbsp;[2021](https://hongsong-wang.github.io/acl2021/), &nbsp;[2020](https://hongsong-wang.github.io/acl2020), &nbsp;[2019](https://hongsong-wang.github.io/acl2019/), &nbsp;[2018](https://hongsong-wang.github.io/acl2018/)
 
 # Acknowledgements

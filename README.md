@@ -2,7 +2,7 @@
 # 历年顶会论文门户网址 (视觉-语言-学习-机器人论文门户)
 
 ## 📰 News
-- 📰 **[2026-06-13] [CV_Paper_Portal升级为Paper Portal of Vision-Language-Learning-Robotics](https://zhuanlan.zhihu.com/p/2049078761413407937)**
+- 📰 **[2026-06-13] [CV_Paper_Portal is upgraded to Paper Portal of Vision-Language-Learning-Robotics](https://zhuanlan.zhihu.com/p/2049078761413407937)**
 - 🏅 **[2026-06-06] The ICML 2026 page is updated with the oral and spotlight results [ICML2026](https://hongsong-wang.github.io/ICML2026/)**
 - 🏅 **[2026-05-25] The CVPR 2026 page is updated with full paper link [CVPR2026](https://hongsong-wang.github.io/CVPR2026/)**
 - 📰 **[2026-05-21] The [ArXiv or Top Conference Paper Search Portal](http://47.102.131.153/) ([arXiv / 顶会论文关键词检索网站](https://zhuanlan.zhihu.com/p/2040787474667020344))**

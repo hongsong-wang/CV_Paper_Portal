@@ -63,6 +63,8 @@ This website is [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Porta
 # [International Conference on Intelligent Robots and Systems (IROS)](https://xplorestaging.ieee.org/xpl/conhome/1000393/all-proceedings)
 [2025](https://hongsong-wang.github.io/IROS2025/)
 
+ # [International Conference on Robotics and Automation (ICRA)](https://xplorestaging.ieee.org/xpl/conhome/1000639/all-proceedings)
+ [2025](https://hongsong-wang.github.io/ICRA2025/)
 
 # Acknowledgements
 若该网页[CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/)对您有所帮助，请在[https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal)页面右上角点个Star⭐支持一下，谢谢！

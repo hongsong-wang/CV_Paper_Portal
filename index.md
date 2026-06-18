@@ -68,7 +68,7 @@ This website is [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Porta
 
 
 # Acknowledgements
-若该网页[CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/)对您有所帮助，请在[https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal)页面右上角点个Star⭐支持一下，谢谢！
+若[CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/)对您有所帮助，请在[https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal)页面右上角点个Star⭐支持一下，谢谢！
 
 如果转载该文档的内容，请注明出处：[https://github.com/hongsong-wang/CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/)
 
